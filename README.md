@@ -1,6 +1,6 @@
 # Protocell Simulation
 
-![Protocell Formation.png](Protocell Formation.png "Protocell Formation.png")
+![Protocell Formation.png](https://github.com/chrisk60331/protocell-simulation/blob/main/ProtoCell%20Formation.png)
 
 This project simulates the formation and division of protocells, representing a model for the early stages of life. The simulation tracks the creation of essential molecules, including lipids, nucleotides, amino acids, and RNA, and models the behavior of protocells, including their division when they reach a critical threshold of RNA.
 
